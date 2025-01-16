@@ -1,4 +1,11 @@
-Analysis of customer satisfaction using sentiment analysis using the example of film trailersGroup members:Hamidreza Fathollahzadeh (hamidreza.fathollahzadeh002@stud.fh-dortmund.de)Shirin Babaeikouros (shirin.babaeikouros001@stud.fh-dortmund.de)Nafiseh Askari (nafiseh.askari001@stud.fh-dortmund.de)Hadis Mohammadi (Hadis.mohammadi005@stud.fh-dortmund.de)Faraz Chahybakhsh (faraz.chahybakhsh002@stud.fh-dortmund.de)
+## Analysis of customer satisfaction using sentiment analysis using the example of film trailers
+
+Group members:
+Hamidreza Fathollahzadeh (hamidreza.fathollahzadeh002@stud.fh-dortmund.de)
+Shirin Babaeikouros (shirin.babaeikouros001@stud.fh-dortmund.de)
+Nafiseh Askari (nafiseh.askari001@stud.fh-dortmund.de)
+Hadis Mohammadi (Hadis.mohammadi005@stud.fh-dortmund.de)
+Faraz Chahybakhsh (faraz.chahybakhsh002@stud.fh-dortmund.de)
 
 
 ## Features
